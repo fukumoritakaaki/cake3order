@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Controller/Admin/UsersController.php</file>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Model/Table/UsersTable.php</file>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Controller/Component/MyAuthComponent.php</file>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Controller/Admin/CustomersController.php</file>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Controller/Admin/AppController.php</file>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Controller/Admin/HomesController.php</file>
+            <file>file:/C:/xampp/htdocs/cake3order/src/Model/Entity/OrderDetail.php</file>
+        </group>
+    </open-files>
+</project-private>
